@@ -1,7 +1,295 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Wed_ban_noi_that:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a51b79e5-b107-40e7-a0e8-854bee78e3ed" name="Changes" comment="" />
+    <list default="true" id="50a55600-1d28-4d77-af45-a0543b75eabb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/filter/PreventAccessAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/filter/PreventAccessShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/functions.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/CKFinder-2.6.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/CKFinderPlugin-FileEditor-2.6.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/CKFinderPlugin-ImageResize-2.6.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/CKFinderPlugin-Watermark-2.6.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/commons-io-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/gson-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jboss-logging-3.1.4.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jboss-vfs-3.2.11.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/mail-1.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/thumbnailator-0.4.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/jquery-confirm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/sweetalert2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/classes/filter/PreventAccessAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/classes/filter/PreventAccessShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/angus-activation-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/caffeine-3.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/geantyref-1.3.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/jakarta.activation-api-2.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/jakarta.mail-2.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/jakarta.mail-api-2.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/javax.mail-1.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/javax.servlet-api-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/javax.servlet.jsp-api-2.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/jdbi3-core-3.35.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/mysql-connector-j-8.0.31.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/protobuf-java-3.19.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/lib/slf4j-api-1.7.32.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/common/shop-css.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/common/shop-footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/common/shop-header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/common/shop-js.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/jquery-confirm.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Heebo/Heebo-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Inter/Inter-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Poppins/Poppins-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/bootstrap/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/bootstrap/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/flex-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/jquery-confirm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/jquery-migrate-3.0.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/onepage-nav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/owl-carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/scrollup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/slicknav.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/sweetalert2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/products.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/filter/PreventAccessAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/filter/PreventAccessShop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Nhóm 1_Bán Nội Thất.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/customer-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/forgot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/form-add-product.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/forgot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/images/team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/order-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/product-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/root-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/root-manager-admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/root-settings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/sales-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/settings.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/plugins/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/vendor/plugins/pace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/BanChay/ghế gỗ cao su 1390.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/BanChay/ghế sofa 8900.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/BanChay/tủ quần áo 2 cánh 5390.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/GiamGia/bàn tròn nhỏ 1290.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/GiamGia/bộ bàn ăn ghế gỗ 12900.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/GiamGia/hộc tủ 3 ngăn 1590.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/GiamGia/set tủ quần áo 8780.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/XemNhieu/bàn trang diem 4490.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/XemNhieu/bàn ăn gỗ 2490.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/CumGiamGia_BanChay_XemNhieu/XemNhieu/giương 5290.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TinTuc/tintuc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TinTuc/tintuc2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/TinTuc/tintuc3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghế/bộ bàn ăn 4 ghế 11450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghế/bộ bàn ăn 6 ghế 17130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghế/bộ bàn ăn ghế gỗ 12900.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghế/ghế 4 10555.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghế/ghế sofa 11790.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghế/ghế tròn papa 2400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghế/ghế đu họa tiết 1850.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ghế/ghế đu lồng lớn 4800.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/Giường ngủ Gỗ Tràm 5190.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/Giường ngủ gỗ tràm V2 4890.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/giương ngủ gỗ cao xu hexo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/giương ngủ gỗ tự nhiên.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/giươngngu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/giường ngủ bọc niệm 2 trong 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/giường ngủ gỗ 5690.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/giường ngủ gỗ cao su.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/giuong/giường ngủ gỗ tự nhiên mắt cáo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nguoi_dung/user_01_80x80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nguoi_dung/user_02_80x80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/nguoi_dung/user_03_80x80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/bộ bàn ghế 2190.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/ghê văn phòng 1790.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/ghế xoay 1690.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/gương bầu toàn thân 1700.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/gối sofa sống xanh 550.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/gối vuông 450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/hộc tủ 3 ngăn 1850.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/kệ sách 3 tầng 2490.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/productNew/kệ để sách tủ khóa 5390.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tin_tuc/100x100/tin_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tin_tuc/100x100/tin_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tin_tuc/100x100/tin_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tin_tuc/370x300/tin_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tin_tuc/370x300/tin_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tin_tuc/370x300/tin_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tin_tuc/a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tủ/tủ quần áo 3 cánh 9990.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tủ/tủ quần áo 4490.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tủ/tủ quần áo gỗ 3790.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tủ/tủ quần áo gỗ 4490.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tủ/tủ tivi 2690.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tủ/tủ đầu giường 1590.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tủ/tủ đầu giường 201 1290.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tủ/tủ đầu giường hobro 1990.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/change-pass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/checkout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/confirm-pass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/animate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/flex-slider.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/flex-slider.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/jquery.fancybox.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/jquery.fancybox.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/magnific-popup.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/magnific-popup.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/nice-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/nice-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/niceselect.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/owl-carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/owl-carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/slicknav.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/slicknav.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/css/themify-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/themify-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fogot-pass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/fontawesome/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/fontawesome/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/fontawesome/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/themify.eot" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/themify/themify.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/themify.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/themify/themify.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/themify.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/themify/themify.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/fonts/themify.woff" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/fonts/themify/themify.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/images/labchemicals-logo-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/images/labchemicals-logo-non-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/images/labchemicals-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/images/labs/lab_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/images/labs/login_start.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/images/logo-google.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/images/payments.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/active.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/active.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/easing.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/easing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/facnybox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/fancybox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/finalcountdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/flex-slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/flex-slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/gmap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/jquery-migrate-3.0.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/jquery-migrate-3.0.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/map-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/nicesellect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/onepage-nav.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/onepage-nav.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/owl-carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/owl-carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/scrollup.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/scrollup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/slicknav.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/slicknav.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/shop/js/waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/js/ytplayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/product-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/purchase-history.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/HomeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/HomeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/classes/database/dao/CustomerDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/classes/database/dao/CustomerDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/classes/model/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/WEB-INF/classes/model/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/Wed_ban_noi_that/shop/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/database/dao/CustomerDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/database/dao/CustomerDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Account.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,110 +303,56 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YvLtofq6c6UgN9dYcBb3d6j3hG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/OneDrive/Máy tính/CuoiKyWWeb/Wed_ban_noi_that&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/tri/LTW",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.68">
-    <configuration name="Unnamed" type="TomeeConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="2196dec5-7dc9-450f-a16f-238dba4e8a95" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="55096" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\Wed_ban_noi_that\src\main\webapp" />
+      <recent name="C:\Users\DELL\Desktop\Wed_ban_noi_that" />
+      <recent name="C:\Users\DELL\Desktop\Wed_ban_noi_that\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="Tomcat 9.0.68" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.68" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment />
+      <deployment>
+        <artifact name="Wed_ban_noi_that:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Wed_ban_noi_that_war" />
+          </settings>
+        </artifact>
+      </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="907868d6-d1ea-444b-9749-45df864072bc" />
+        <option name="BASE_DIRECTORY_NAME" value="eb632b72-e27e-4e9c-a691-8908a06db64f" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -126,7 +360,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="55098" />
+        <option name="DEBUG_PORT" value="61108" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -190,12 +424,11 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Wed_ban_noi_that:war" />
+        </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Tomcat Server.Tomcat 9.0.68" />
-      <item itemvalue="TomEE Server.Unnamed" />
-    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
