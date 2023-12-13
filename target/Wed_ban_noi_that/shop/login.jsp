@@ -5,8 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lab Chemicals | Đăng Nhập</title>
-    <link rel="icon" type="image/png" href="images/labchemicals-logo-icon.png" />
+    <title>Nội thất Future | Đăng Nhập</title>
 
     <!-- ===== STYLESHEET ===== -->
     <link rel="stylesheet" href="css/bootstrap.css" />
@@ -32,8 +31,7 @@
             <div class="row py-3">
                 <div class="col-lg-7 col-md-7 col-12">
                     <div class="title-left d-flex justify-content-start h-100 align-items-center">
-                        <a class="w-25 mr-4"  href="index.html"><img src="images/labchemicals-logo.png" alt="" /></a>
-                        <span class="d-inline-block">Đăng Nhập</span>
+                        <a class="w-25 mr-4"  href="index.html"><img src="images/logo.jpg" alt="" /></a>
                     </div>
                 </div>
                 <div class="col-lg-5 col-md-5 col-12">
@@ -60,7 +58,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-7 col-12 text-center">
-                    <img width="80%" src="images/labs/login_start.jpg" alt="" />
+                    <img width="80%" src="images/login1.png" alt="" />
                 </div>
                 <div class="col-lg-5 col-md-5 col-12">
                     <div class="h-100 d-flex align-items-center">
@@ -126,11 +124,11 @@
                     <div class="col-lg-5 col-md-6 col-12">
                         <div class="single-footer about pr-5">
                             <div class="logo mb-4">
-                                <a href="index.html"><img src="images/labchemicals-logo-non-bg.png" alt="#" /></a>
+                                <a href="index.html"><img src="images/logo1.jpg" alt="#" /></a>
                             </div>
                             <p class="text">
-                                Lab Chemicals là trang web mua sắm trực tuyến với sản phẩm chính là
-                                hóa chất dùng cho thí nghiệm. Chúng tôi cam kết đem đến những
+                                Future là trang web mua sắm trực tuyến với sản phẩm chính là
+                                đồ nội thất. Chúng tôi cam kết đem đến những
                                 sản phẩm chất lượng với mức giá TỐT NHẤT trên thị trường.
                             </p>
                             <p class="call">Có bất kỳ câu hỏi nào vui lòng liên hệ:<span class="d-block"><a href="tel:123456789">0983 803 100</a></span></p>
@@ -167,7 +165,7 @@
                                 <ul>
                                     <li class="mb-2">123, phương Linh Trung, Tp. Thủ Đức, Tp. Hồ Chí Minh</li>
                                     <li class="mb-2">35 Đinh Tiên Hoàng, phường 5, quận 5, Tp. Hồ Chí Minh</li>
-                                    <li class="mb-2">info@lachemicals.com</li>
+                                    <li class="mb-2">info@future.com</li>
                                     <li>0983 803 100</li>
                                 </ul>
                             </div>
@@ -191,13 +189,13 @@
                         <div class="col-lg-6 col-12">
                             <div class="left">
                                 <p class="text-white">
-                                    © 2022 - Bản quyền thuộc về Lab Chemicals &#8722; Đã đăng ký bản quyền.
+                                    © 2023 - Bản quyền thuộc về nội thất future &#8722; Đã đăng ký bản quyền.
                                 </p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-12">
                             <div class="float-right">
-                                <img src="images/payments.png" alt="#" />
+                                <img src="images/labs/payments.png" alt="#" />
                             </div>
                         </div>
                     </div>
