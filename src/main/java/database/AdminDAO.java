@@ -1,6 +1,5 @@
-package database.dao;
+package database;
 
-import database.DbConnection;
 import model.Admin;
 import model.RoleAdmin;
 import model.StatusAcc;
